@@ -31,5 +31,8 @@ Also, make sure that your git commands are running without errors before you ref
 Then, you can see if you made an error with your git add, commit, or push commands.
 
 
-### _your name and UW net ID_
-Write your paragraph on the importance of the required plot elements here.
+### Aaron Le #2238794
+Plot elements like axes labels, titles, colorbars, and legends are key to making figures easy to understand and interpret. Axes labels show what data is represented on each axis, which helps someone quickly grasp what they are looking at. A title summarizes the main idea of the plot. This allows the reader know what to expect. Colorbars are important when color is used to represent data as they show what the colors mean in terms of actual data values. Legends are useful for identifying different data series or elements in the plot, so the viewer can easily tell them apart. 
+
+
+
